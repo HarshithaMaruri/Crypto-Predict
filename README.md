@@ -153,7 +153,7 @@ Results indicate that the **LSTM model achieved the highest prediction accuracy*
 
 ---
 
-## 🏁 Conclusion
+## Conclusion
 
 This project demonstrates the application of Machine Learning and Deep Learning techniques for cryptocurrency price prediction. Through a comparative analysis of LSTM, Prophet, and SVR models, the study evaluates their effectiveness in forecasting highly volatile cryptocurrency markets.
 
